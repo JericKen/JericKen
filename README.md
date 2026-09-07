@@ -1,15 +1,105 @@
+# Hey, I'm JericKen 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeric.ken.verano.2) 
+### Aspiring Software Engineer 💻
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JericKen&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=JericKen&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JericKen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I'm a **BSIT graduate** passionate about building practical, scalable web applications and improving my software engineering skills.
+
+Currently focused on **full-stack web development**, especially building reliable APIs, clean frontend architectures, and well-structured databases.
 
 ---
-[![](https://komarev.com/ghpvc/?username=JericKen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Currently Learning
+
+- ⚛️ React
+- 🟢 Node.js & Express
+- 🗄️ PostgreSQL
+- 🔷 Prisma ORM
+- 🔐 Authentication & Authorization
+- 🏗️ Backend & Frontend Architecture
+- 🐳 Docker
+- 🌐 REST APIs
+- 🧪 Testing & Error Handling
+- 🔀 Git & GitHub
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🧵 SewTrack
+
+A web application designed to help manage a small sewing business.
+
+**Features include:**
+
+- 💰 Income & expense tracking
+- 🛍️ Sales management
+- 📦 Inventory & stock tracking
+- 🔧 Repair order management
+- 👥 Customer & supplier management
+- 📊 Business summaries
+
+**Tech:** React • Node.js • Express • PostgreSQL • Prisma
+
+---
+
+### 🚌 KingLang Transport Booking System
+
+A booking system developed for a tourist bus rental business.
+
+**Features include:**
+
+- 🚌 Bus availability validation
+- 📅 Booking management
+- 💳 Payment integration
+- 💰 Booking cost calculation
+
+**Tech:** PHP • MySQL • HTML • CSS • JavaScript
+
+---
+
+## 🎯 My Goal
+
+To become a **professional software engineer** capable of designing, building, testing, and deploying production-ready applications.
+
+I'm especially interested in:
+
+```text
+Frontend Engineering
+        ↓
+Backend Engineering
+        ↓
+Database Design
+        ↓
+System Architecture
+        ↓
+DevOps & Deployment
