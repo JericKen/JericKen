@@ -87,6 +87,28 @@ A booking system developed for a tourist bus rental business.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JericKen&show_icons=true&hide_border=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JericKen&layout=compact&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=JericKen&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
 ## 🎯 My Goal
 
 To become a **professional software engineer** capable of designing, building, testing, and deploying production-ready applications.
