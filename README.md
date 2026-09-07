@@ -2,9 +2,11 @@
 
 ### Aspiring Software Engineer 💻
 
-I'm a **BSIT graduate** passionate about building practical, scalable web applications and improving my software engineering skills.
+I'm a **BSIT graduate** passionate about building practical, scalable web applications and continuously improving my software engineering skills.
 
-Currently focused on **full-stack web development**, especially building reliable APIs, clean frontend architectures, and well-structured databases.
+I have experience building websites and applications using **WordPress, React, Node.js, Express, PHP, PostgreSQL, MySQL, and Prisma**.
+
+I'm currently focused on **full-stack development**, software architecture, backend engineering, database design, and building production-ready applications.
 
 ---
 
@@ -27,29 +29,66 @@ Currently focused on **full-stack web development**, especially building reliabl
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
-### Database
+### Database & ORM
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
+</p>
 
-### Tools
+### WordPress
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,php" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
+</p>
+
+---
+
+## 🌐 WordPress Development
+
+I've developed and maintained WordPress websites, including a website for my school.
+
+### 🏫 School Website
+
+Developed a dynamic school website using **WordPress**, with a focus on creating reusable and manageable content for different sections of the site.
+
+**Technologies & Tools:**
+
+- WordPress
+- Elementor
+- Advanced Custom Fields (ACF)
+- PHP
+- HTML
+- CSS
+- JavaScript
+
+**Development work included:**
+
+- 🎨 Custom page layouts using Elementor
+- 🧩 Dynamic content using ACF
+- 🗂️ Custom Post Types
+- 🏷️ Custom fields and structured content
+- 🔄 Dynamic content rendering
+- 🧱 Custom WordPress components
+- ⚙️ Custom PHP functionality
+- 📱 Responsive website development
+- 🎯 Reusable WordPress components
+- 🔧 Custom plugin development
 
 ---
 
@@ -87,7 +126,7 @@ A booking system developed for a tourist bus rental business.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <p align="center">
   <img
@@ -98,19 +137,21 @@ A booking system developed for a tourist bus rental business.
 
 ---
 
-## 🎯 My Goal
+## 🎯 Career Goals
 
-To become a **professional software engineer** capable of designing, building, testing, and deploying production-ready applications.
+I'm working toward becoming a **professional software engineer** capable of designing, building, testing, and deploying production-ready applications.
 
-I'm especially interested in:
+My current focus:
 
 ```text
+Web Development
+       ↓
 Frontend Engineering
-        ↓
+       ↓
 Backend Engineering
-        ↓
+       ↓
 Database Design
-        ↓
+       ↓
 System Architecture
-        ↓
+       ↓
 DevOps & Deployment
