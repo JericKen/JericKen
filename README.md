@@ -1,4 +1,4 @@
-# Hey, I'm JericKen 👋
+# Hey, I'm Jeric Ken 👋
 
 ### Aspiring Software Engineer 💻
 
